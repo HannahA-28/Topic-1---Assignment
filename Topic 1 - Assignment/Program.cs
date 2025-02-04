@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // This is what the initials HA look like with programing, Hannah Anderson
+            Console.WriteLine("H   H   A");
+            Console.WriteLine("H   H  A A");
+            Console.WriteLine("H   H A   A");
+            Console.WriteLine("HHHHH AAAAA");
+            Console.WriteLine("H   H A   A");
+            Console.WriteLine("H   H A   A");
+            Console.WriteLine("H   H A   A");
         }
     }
 }
